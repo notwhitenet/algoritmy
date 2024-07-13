@@ -33,8 +33,7 @@
   "keyToString": {
     "Python.binary.executor": "Run",
     "Python.newalgo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
